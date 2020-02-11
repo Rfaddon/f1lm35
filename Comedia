@@ -1,0 +1,449 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zB2my34nsJx0YHmN7pwx2QDp92p.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Gordo e o Magro (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p-XjKjTqkh1jVa_CBwT84Y-dxHU5gOaI/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4nvlyc9" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Auto Da Compadecida
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hcGVTX3igpIWJ1upxlbTFEnPBT_LX0w5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxzjxewu" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 1 - A Primeira Vez é Inesquecível
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DNfElPy0NPOvGaTxYrPvD40RLNYJJib6/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2pd7oy9" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 2 - A Segunda Vez é Ainda Melhor
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1io4y8VoWY1W1H-cLZrKZqDc4M1u1Mq9o/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5do7wez" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 3 - O Casamento
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EQ_faO2_hPLOiqAIiW8MowwevIT1pyCh/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxd42mw8" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 4 - Tocando a Maior Zona
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11eqIt2cW90rqqY9CDYtlnpupeIyfACW3/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxak4dr7" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 5 - O Último Stifler Virgem
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dfhoh_zxrRhNJtgSezufgoAh-CJ4687P/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y22am6ng" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 6 - Caindo em Tentação
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mM5EzSiq0bmKah3H1L4KThUkeKbrb2hJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4szulhr" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",American Pie 7 - O Livro do Amor
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ChjK_hZ6QHJkfzjDYzu3mQ2IfVN60evs/view
+#EXTINF:-1 tvg-logo="https://goo.gl/VxAxrB" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Terror nos Bastidores (2015)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKS29fRE1kbFlTM1U/view
+#EXTINF:-1 tvg-logo="https://goo.gl/epFrv6" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tiras, Só que Não 2015 - Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKN3JFMmJtODU1Nms/view
+#EXTINF:-1 tvg-logo="https://goo.gl/9V1LJ1" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Destino em Dose Dupla
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B-DNtY5PBDNFdEQ1SjdldmtXcUE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8w8d9ed" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",GAROTOS EM PONTO DE BALA 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EDILk3quXS7qMdd0IDnanlxQ3S3PDL15/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8g53tw4" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Nos Palcos da Vida 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NhUnKxZBp6-OXGtlKVU_W9JWEv1cVuLc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8w8d9ed" group-title="FILMES GDRIVE 2018" pltv-subgroup="COMÉDIA",Garotos em Ponto de Bala (1976)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EDILk3quXS7qMdd0IDnanlxQ3S3PDL15/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd5xcvv5" group-title="FILMES GDRIVE 2018" pltv-subgroup="COMÉDIA", O JOGO DA VIDA 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Mtp0agTSkCSfLhCy0nFt5LXiYrmqgzx-/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jjgzsl" group-title="FILMES GDRIVE 2018" pltv-subgroup="COMÉDIA",ACABANDO COM O SOSSEGO 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1onb81hJ5DiCh-KLBmLNWEFwe7NcNjmJp/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yag4gogb" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Panaca – 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QWm3kQBXmU5_JNVwD7kYD3bLCCoDNiSH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycgb5hnd" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Casanova & Cia – 1977
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kRO6xuPg4igxeqN5TQlTkuAssaStp1sX/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3fwa5k" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Um Hotel Muito Louco – 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xx2e0dX6UPIjSYN7XPYu5gGBSrsuedZk/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y96kr3ww" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Homem Meteoro 1993 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13shkPx3ogArGZAzjfloB5zk52T0FCSdi/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y764r4c5" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Médico Erótico 1983 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tSmxufs5OCXKZ111cWes7djuVOOlH0f2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycg7fkj8" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Só o Casamento Nos Separa 1971
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10Yhs36eLEX_RBKxpCWlVHXyRJGvvJ1pr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9w9mba4" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 1984 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PSqNtatxY8LTRM3cjtB5NO5mO8WG7moJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya86b4o2" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 2: A Primeira Missão 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i3PWAjnVejOaVmMoDtJs4kPj6WoF381d/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybgggtva" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 3: De Volta ao Treinamento 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10SCXdUsr3gHSBLD8M23l1poF5654yv-9/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd94pktt" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 4: O Cidadão se Defende 1987 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lqUPom0KmTrVpSAxI0cTYSyb1hiNGNVT/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9pgo9ew" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 5: Missão Miami Beach 1988 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yTc_45oWBuHr-i8gVlD7W0UmTMpA-EWt/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7qktkvs" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 6: Cidade em Estado de Sítio 1989 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ccn0__a5615tt7Xtig4aL5VPp0hN9cpV/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7z6mwtf" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Polícia 7: Missão Moscou 1994 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CA9grEz2g41GMmb_xAoXX7MXq1e-QWag/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycgh3hlb" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Dois Velhos Mais Rabugentos 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19fsSdU0oYXaUAGzjBntKILUJihn5HLGZ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9vmazgn" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Dois Velhos Rabugentos 1993 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cuMBNRELyEarR_2-Y4WK9vPQuNioQ6Dl/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7huv7do" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Ninguém é Perfeito 1990 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w2Z5YRVQW5s50RR16WAgaKXpmhK-6VET/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycln77vs" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucuras Invisíveis 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19YxaljJ4as9QldqCPORbWlVIkfT8GyMz/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7s8mp6y" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia de Medicina 1985 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PzpVa5ftlNg2LdKCMVF0NdUSTbgLkYNo/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7bmf6u6" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Amor na Medida Certa 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FY1t2LWKvOMblF4F1-0h8oRbjUbSVK4M/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7nbkvcp" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tudo em Uma Só Noite 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J7GZ6r_z-lzu5HV5229CFSm-t1QaAjvc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybxvd8r7" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Vingança dos Nerds 4: Os Nerds Também Amam 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1epSevN8d1uIJ0wUT-EFzvTkcYRoX_jl8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9wo2enp" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Vingança dos Nerds 3: A Nova Geração 1992 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tNfB0G2lVgI7DniPE6i6TYVYdc9YqpMt/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7nhpccy" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Vingança dos Nerds 2: Os Nerds Saem de Férias 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Guc1VSyl2JWPz8y3frNdXwe34PfB-r_L/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73xexs7" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Vingança dos Nerds 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B2CePMn3qrvbbgbKSGqSKCmHO3G_oqC8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7sjaqrc" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Rebeldes da Academia 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1akuBhPgBJoEM-e7DcCp_LMGE1018Cvq6/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8ut8yrq" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Meu Adorável Vampiro 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nT8F0q-z1_54M7UPUFFGyeA-aucWpS7B/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yalab9gk" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Espião por Acidente 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LpeRfIYKvQoohDOyN0agygO0sPt4Vf-X/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycfpwq4f" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Golpe Sujo 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AQrD1NBWKvzgDDmHL9__VGbxdceip-2g/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yasm323t" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Cheech e Chong: Queimando Tudo 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KQ3g27ezzgtd8F0h72vVbp8TZ51-N5NA/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y962mfkn" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Armados e Perigosos 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pWxwemvxvyhxIJ5d8KEV6z-0OIXSQt-D/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8m5esrp" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Garotas e Mais Garotas 1962
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fFPH-_woaS93zSNgIVKx6raGH171BTAx/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaoyfypl" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Céu Pode Esperar  1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YMSzRacVOZhe0IfpkjRG0XkSaLFm_J5H/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wpbm4s" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Não Faça Onda 1967 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cQhedn_J1RXGrOKcChcZ6ffmQn7LHbT7/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya4q2qef" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Cientista Bicão 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i0RRCA0GzCSTPdhNxz7YUvwUy2n1fiqJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8tvfkdd" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Penitenciária Maluca 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15gPIhB-D0M2Dv-aHtUJZVfMTBBTC8bsm/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7lfjb2m" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Os Maiorais 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z99aLa2U9OR1WhGBY0eYMmlJnpua41ZH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycn3c2hs" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Minha Família é Demais 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YJRAex0DeT4eH-B_8oV0QJ2Uuog5A7LD/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7hlk49j" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Nos Tempos do Cinto de Castidade 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-EXLADFvoxS5Qghbd4J5huap1B9PYN8R/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8hdqzkr" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",O Marujo Foi na Onda 1952
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AX5oIZ25hZzA1XUWt-LkSD4kuqhSK8lz/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8oc89u6" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",A Barbada do Biruta 1953
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_GBsM6GBGGargRgfKO-97oBIddZ4IUzC/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8opns6f" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Garotas Duras na Queda 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iooLrQxWHeDrxwzmQFvN2VnUqGMMacln/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8lzv9fr" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Olha Quem Esta Falando Tambem 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xgNyEDFsaSF3wnodiPjzwznPBKaT4dvk/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yah8vl82" group-title="FILMES ATUAIS" pltv-subgroup="COMÉDIA",Acampamento de Gordinhos 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P0JkcHf8A3RF6Vj8-mnTQKXKYAs6Z_NK/preview
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAtlTRF.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Sexo Casual 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G7rI-fWA4xTWDYyN2pmOZmdu_ie6ha3v/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cacPk8b.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Bebês Geniais 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h-I_ov_10PxRyGahaU7acaysw6Lyp54t/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThWdZGO.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Agarra-me Se Puderes 1977
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_YYiL3UHVB91xVjJ4MKOgNEsKMe_uzhQ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PmHO7G.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Desta Vez Te Agarro 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o49q2SSvnTYNHm3HnjcGoQAitVVq3yCi/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qearca.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Agora Você Não Escapa 1983 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16JQnlBwUNFt7fVj6vz3-azdGE19JNSl6/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBeLYxS.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Pestinha 3 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W_ADt0opPnZ0CYa3MoQRYsjo_fXYjAaK/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JG5K9pD.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Pestinha – 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Smw-L4Sj-YC3fbkinuaoZSfV9-EDgZPf/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3lTGed.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Os Deuses Devem Estar Loucos 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16uWtWwhlyrI2Fpccvip5ufxzklSDZFmi/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgQyLdH.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Arma Secreta da Máfia 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GIgfrV2uEiTdkfcalsBRK0hpFjgFX7tJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7bfnt48" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Lua de Mel Agitada 1953
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S4OMSLARYaJCwGnf7Fq1EKKm9FyWJ258/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iLBJyB.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Elvira: A Rainha das Trevas 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18InqoETSAiVUTBVmdYuGePejxAahIRCG/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycggg7ak" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Os Últimos Durões 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eODRmoYZknAqVunBhzdDlAUhS-A-TcJk/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kunGSD.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Acampamento de Verão 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yBeqKeuSu3ihiriCjwGWzQv7xEdf59Q2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya4n9p7j" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Em Busca do Prazer 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z3reZ6HZsUjGf_bx705MPXwxU0gAkFVe/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7dp9xml" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Curtição na Neve 1984 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eYedovSlXU62Vqs9n-eQJHxg8hOwvW9n/view
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/73483_front.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Máfia no Divã 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XDjpFcESI2AaUFPxXtccpfALGMAS0lUe/view
+#EXTINF:-1 tvg-logo="https://images4.static-bluray.com/movies/covers/31053_front.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Máfia Volta ao Divã 2002
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DK1rRYfRnjfW5gF7aNeJ_lK8BtJvtVIs/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZT7nr2.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Hábito Não Faz O Monge 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12yP8Fc9E8k5b1uUzDylzVJlhJbPXnpUU/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoPo5kz.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Homem da Casa 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F3f55IrNO5TlExPdz4TZPgPq2tR3MAsx/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7p87ntu" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Era do Rádio 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f9wURv1bpvrabKthZeSnKKWAk9KGzmIm/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycr34v3h" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Ghost Town – Um Espirito Atras de Mim 2008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1naS-OqzTaL9Ns0ZFFi8SKoxg1YStW-lc/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NT36tvX.png" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Malena 2000 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C6f0yT7kYKRZN1QgNSrk0HrInI3tp68j/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yca7lumr" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Pestinha 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/127UwqAeATuuuMW_d9Vp40ooMQrIBxoPh/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybh5zsf3" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Dennis, O Pimentinha 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GnJXVobL_fgKpFWcZ_TmdC-9dkP-dW6v/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCEDPgf.png" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="SUSPENSE",Um Corpo Que Cai 1958
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Es54UGEXKaaYGSPxamSuvBokHICC8tPe/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTI6jeq.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",O Calhambeque Mágico 1968
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HzS-0mdOkKsC3hjXxJc9o1zTWzRmxMym/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YY5W1Qj.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Pequeno Grande Time 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IUX_O7K2D0QlUSsgkDmGnSVFKPVJVBwC/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybz5ovhn" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Na Riqueza e Na Pobreza 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TItxdBBWw4Q9LKzSAJghWl-eIaLeSRmB/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNjRaZF.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Uma Festa de Arromba 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lFsJR7G344FxITW31dnmv3ZFLVA4M5ob/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8NZ0D6.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Quem é Essa Garota? 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aytnG1nji9GF9To0xG_LBrFLVuZ_WIQH/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSwLf2b.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Recrutas da Pesada  1981 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e2snYkOK8zQ2N-4lcSey1MDLn_Q9E1Ft/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3pur8p" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Click 2006
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc7g6ftc" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Ace Ventura 2: Um Maluco na África 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1URxFUqpPXgEFP4rldD_pdWSiLKNZ4yJm/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9z8tn37" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Um Pedido de Natal 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1ekgDWMEIr0XPGhqV44kGFYydy8tk2kO3
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycdbo6fg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Debi & Lóide: Dois Idiotas em Apuros (1994)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1T0jjTov6ovhDTW_bAYpDOJ9StV6uWy-4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y89996h7" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Um Salto para a Felicidade (1987)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WDBzoVhqzxyTjusNbgelEA_PruQfamk5/view
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6atERv5kkk4d29xVF9ZNmw0eWM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya7bvsnj" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tomboy: Levada da Breca  1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i9ib4Gy6xCKLWxNl7AwYw_EO-1SpEUBL/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb5pznkr" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Corra Que a Polícia Vem Aí! 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OgbS8xq5Om1QiSwya_05rF_IlnX8CC2b/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9sbvppw" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Corra Que a Polícia Vem Aí 2 1/2 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OgbS8xq5Om1QiSwya_05rF_IlnX8CC2b/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yalzsgme" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Corra Que a Polícia Vem Aí 33 1/3 - O Insulto Final 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iDfEocNTmjTSZsccMJ8VXPvgVlbKtraI/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtrEtiz.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Natal Branco 1954
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_vNhtbHoisiMfOoNuFW24w25tKgd3eGF/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOtaAEK.png" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Olha Quem Está Falando 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pFwnq_2QzfFB4Ox6MtsY9zaMC1EYIAqR/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VR5SUIA.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Verão de 76: Um Verão Especial  1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jXPLviamw1jt-v_RfFqq3BYZPG385V6K/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bgZBb60.jpg" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",O Sargento Trapalhão 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m73ETHBW8BFVUkhyRdBwNUvyowWcNhsC/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycelhgop" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Pequena Bruxa Legendado HD 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ApezNeTMrYYe5ljiWdZcmdckdPe7JwWQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ychxgln8" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Johnny English 3.0 2018 Legendado 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xwVTdl4j7clM2hf5kxYbbk46kGPJMhwB/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8wtva8b" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Se Eu Fosse a Minha Mãe 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ilpNwi0Lz9K564v4nAE77KixFEgkaDBZ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybfmevgk" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",A Proposta 2009
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0ByTZUzJ-knjeNkpKeU52bFFQOEE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9qml3gw" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Homem ao Mar 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PWhSj2oL38A1imFZeffhrtV6aZ90x1h2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9z6yc4f" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Tal Pai,Tal Filha 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/196QE7vbU9qyNnoyBxpn42fF3biPCBwvc/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8mx8yfb" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Um Espião e Meio 2016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nb_js2inblgWn3Jk5608Wc5yDY_unWH3/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybgw3r53" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Ted 2012
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4TlmX1fcinraFhnbi1lZ3RDc2s/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yantxqub" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="COMÉDIA",Charada 1963
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B72MHB_CmorTSnNIUXl5V2VpQ1k/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybfelw9l" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Uma Secretaria de Futuro 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B-uI7Jr2Jry6Q3NaTXktRlZYa2s/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9vt4lzb" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Clube dos Cinco Dublado 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B_04IGSEn89bRnY4QmpRSUswT1k/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydewc3gy" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Porky's A Casa do Amor e do Riso 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B7BQwCUfXt3rZVoxTnZvcFVaODQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yatgn7dp" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Pescando Confusão 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6WXgqPjkIQ9NFN3OGFEdV8yelE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya6u7cfb" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Dois Loucos com sorte 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8LVNRKHi7E3dlRpUV9heGp2bW8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7av3bn6" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Aladdin 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8LVNRKHi7E3ck5PTm9BdHlNZDg/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybzl8mpz" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",O Expresso de Chicago 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6WXgqPjkIQ9b01XOVRyMUQ1ZVU/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ychq26n5" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Medica Bonita e Solteira 1964
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B45M3RH66aiMOGMzd19rSWZLcGs/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7s5qtbh" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",A Gaiola das Loucas 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HT5VvWTdDgAoGrzBJovSYFwK93JR5apF/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydgca2u8" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",A Gaiola das Loucas 2 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V7AXmND0NdgGWtW7FwYj3fBg5pcBYw3z/view
+#EXTINF:-1 tvg-logo="https://goo.gl/QuzgKU" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Zuando no Campus 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12nbIFmNLXDAul-5Bk5P586v74azj2xo1/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycu99yff" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Gasparzinho O Fantasminha Camarada 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rkBD80hyYLSRt6DnenGXGHs5gVKszHVc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y72ecdkn" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",O Máskara 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1sBpI-LyYpdM0JkUEtxckZNOTQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybwl8ejz" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Uma Dupla Agitada 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VrZaZ_AIDCzWm2u2YsJCCfQrqCs7477O/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8af9sd8" group-title="JERRY LEWIS" pltv-subgroup="COMÉDIA",O Marujo Foi na Onda 1952
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s7BPVocCSh0XnzQHUExJP9b4RgbF0apx/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9w2r7yd" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Garotas Duras na Queda 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fvl9MZ7lSnAK5i72G8P4r3dElVBbOVf0/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb7feton" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Batismo Fatal 1970
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WW3Gdxl21hNI2ipX3P7Qp5Cn61l0eqjK/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y74t7p5e" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Rebeldes da Academia 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cgPqDzrC7WbfMwfYc_cbi1KMUoU4g93A/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y73xexs7" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",A Vingança dos Nerds 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1klm8xir7Zw-sgU70nYgh4zGhLJRkEjRu/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybjbnwbg" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Namorados Por Acaso 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18XnjIQKQ6MEp-huAryP97i46rK_lo3cb/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc32fcql" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Três Solteirões e um Bebê 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FYClRU0bEkLfrNLLFWo8ArnwcwbG__nT/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd7r9eab" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Santo Homem 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3DfYHxscpQfRmhQcmNlTDFhZUU/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya8v28s4" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Uma Escola Muito Doída 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mJQImX2BXQgCKlH_10oc5PBY_A7Jz_Pr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd5h3r8z" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Mamãe é de Morte 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17dHkAlYAOc0tId7C0TTVMEHYl4Yu1h-j/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya26myhy" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA DRAMÁTICA",Tempos Insanos 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17iaHqLRE76uzKZDjtH_8SDzfLWJPcOha/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7jdxqyp" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Será Que Ele È? 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1orVA_uECTZ5Ywyd9R-afditOUg0u7rNB/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yag92t2n" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",O Pestinha 2 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/127UwqAeATuuuMW_d9Vp40ooMQrIBxoPh/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yav9tdla" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Te Pego Lá Fora 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RJIZldQdwXsZC3eF4N5lEWbMr56Nv88E/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybjkqt8a" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Santo Matrimonio 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vZX4z2wSr6RgRzSdYnjJ_7Zx9Pd82lRh/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8vsgxmz" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Parece Que Foi Ontem 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K8xXe_OmvUbRfCrwntUhw-DhJ4R4JPp4/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y955zxac" group-title="FILMES ATUAIS" pltv-subgroup="COMÉDIA",A Repossuida 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cok_ERydOvkepAjzbGLBwNphkXXAOJo5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydg5corq" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Sem Licença pra Dirigir 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mOZN76rMY3Bgd_1gzQKCakDUzGGM8Gra/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y95rdrax" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Curtindo a Vida Adoidado 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XpsMVfFGHjfMjJ7KXVRT-Nmy93I78Oth/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybzn9smc" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Olha Quem Está Falando Agora 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rV8kowlv-ZQjRvJlw-7VNaBJh17cz4Lv/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yckwcat8" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",Procura-se Susan Desesperadamente 2 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xJ4unm3DRlAI3KXgvfsuAICVKDMQWceD/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd9p3vrf" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="COMÉDIA",As Aparencias Enganam 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNai93uSOgze5yJeJYRNjY_f6j2uHOns/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafwd849" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Negócio Arriscado 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w_q_3K_y46Ney2trv3K31IXV90hgtQFy/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy82ep" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Chefão por Acaso 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZbxxUYjQiSuePxO7TCgDZ6OzSTa-5A4C/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8fddqvh" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Aquele Gato Danado 1965
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4t2sdGzo8rpQ3RCVHRiYWR4Mlk/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaapy7tf" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Loucademia De Pilotos 1986 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zQxCNMDZcUXlmEyCQbMsOUXFYJ3OTYVs/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7syhumo" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Dê um Sorriso 1975
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HCGnvGR32v8sJTVV6P3NMKuDXu1GGFHe/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yapj439r" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Dançando Até Amanhã 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uHMFRZ9s6_1kzWMLQWATj65iyL9RDHj5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaalut9k" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Cry-Baby 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j0aP6Bdib0AV7Yvho1cmubYzDYZMg8S0/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxT4NVW.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="ELVIS PRESLEY",Entre a Loura e a Ruiva 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wSHJO50U2xeiRMstefBE8r-254JHy_w4/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y83avvfp" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Tina e o Professor 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NcNcCvKn-jaNVuDFuAdsLSzwb57gEON9/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yarx4r9e" group-title="FILMES CLASSICOS" pltv-subgroup="COMÉDIA",Só o Casamento Nos Separa 1971
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x1EY6OV5OzvhTcrQ7GBYgizvpaJ6lF-h/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydctu6p8" group-title="FILMES ANTIGOS" pltv-subgroup="COMÉDIA",Nos Tempos do Cinto de Castidade 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-EXLADFvoxS5Qghbd4J5huap1B9PYN8R/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaf2ld6u" group-title="FILMES GDRIVE" pltv-subgroup="COMÉDIA",Crimes em Happytime 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15j6R53n83LEizHWrS7bBDLO3zvCmwAx8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydhn279q" group-title="FILMES GDRIVE" pltv-subgroup="MUSICAL",Feitiço Havaiano 1961 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fwM4y1BE5N6Y_9QoosYEG4ALHq4BUqGU/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y748lgjm" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",Meu Tesouro é você 1967
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T8rQxFrCTNN19zCKnkQHw8MOf88OFQ7f/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9ke7lus" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",No Paraíso do Havaí 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nrw6ZK3gG7A9oLxlXjmnF2terzOBl_M2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd4bmxwf" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",O Seresteiro de Acapulco 1963
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U0BSE2BidMH0RwAikkAM6wIsOJqkcRF5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yajd7mvr" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="MUSICAL",Saudades de um Pracinha 1960 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13XRTKXlE8gKj8Rp0jJRW5nZHj4HTi-cl/view
+
+
+
+<item>
+<title>[COLOR orange][B] 4 latas [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10pJhPaR6UQja6UGTkv5hFq8yWvFL0ndl/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bqSdcFF4w8ZwgWZB3jNNTJNubBK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3t1IaUzHBQWVHu1W4PKuHv4GC1a.jpg</fanart>
+<info>Para encontrar Joseba, um amigo moribundo, e vê-lo se reunir com sua filha Ely, dois velhos amigos, Jean Pierre e Tocho, embarcam com ela em uma viagem pelo deserto do Saara, da Espanha ao Mali.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Acho que matei minha chefe[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TxHQoLyd6sVHdEjayBsiZ2dK4kl_jWP1/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1xhy8TMRgdJIsgqnNpzP4qQvxW.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NA5ZRcKPzaU/maxresdefault.jpg</fanart>
+<info>Paige Davis acaba de ser promovida a Presidente de Vendas em seu trabalho. Depois de uma noite de festa, Paige e suas amigas hilariamente acordam com um chefe morto.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]A Pé Ele não Vai Longe[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1l_f-8mgHZjSOdcYgZPVwxuBK6yt3od23</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/18/10/27/12/52/1399412.jpg</thumbnail>
+<fanart>https://f.i.uol.com.br/fotografia/2018/12/26/15458393355c23a2e7189d4_1545839335_3x2_xl.jpg</fanart>
+<info>John Callahan (Joaquin Phoenix) é um homem conturbado que, bêbado, bate de carro e sofre um grave acidente. Tetraplégico, ele transforma sua vida, tornando-se um dos cartunistas mais improváveis, ácidos e perseverantes do mundo, usando as limitações físicas para desenvolver uma carreira artística com a ajuda de sua namorada e de um simpático padrinho.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Minha Namorada Fora de Controle[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1G40En4DM_GNFL_8T4X4A9-TiqC9P0Hx_</link>
+<thumbnail>https://media.fstatic.com/-YZhLUA4NXg1HtAIFe156uZa0tw=/fit-in/290x478/smart/media/movies/covers/2016/10/Minha_Namorada_Fora_de_Controle.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/_o6jflJF5VE/maxresdefault.jpg</fanart>
+<info>Carly (Leah Huebner) e Milo (Mischa Pollack) estão na casa dos 20 anos e estão prontos para saírem em um primeiro encontro. O encontro na verdade é mais uma saída casual para um pub. A conversa acaba se envolvendo uma paixão noturna. Frustrada com um histórico de encontros ruíns, Carly decide levar o rapaz em um caminho extremamente louco.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]A Pequena Suiça[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1kwmtVNHNdw_FK9Q3m5HUEEMslC2dw5Jz</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/03/25/15/20/5996340.jpg</thumbnail>
+<fanart>https://i0.wp.com/cinestera.com.br/wp-content/uploads/2019/08/A-Pequena-Sui%C3%A7a-2.jpg?fit=1024%2C514&ssl=1</fanart>
+<info>Certo dia, há uma descoberta inusitada: o túmulo do filho de Gulherme Tell é encontrado no meio da cidade. A partir disso, os habitantes ranzinzas de um povoado dentro do pequeno povoado do País Basco passam a reivindicar que o local seja anexado à Suíça</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]SEIS VEZES CONFUSÃO[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1POiIADCItlhDK0rTcVhcZj3jhC1PXHXk</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/08/02/18/10/0212867.jpg</thumbnail>
+<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/08/cropped-AAAABSdueBByUkp45bJvKcmed6X1iJ_bAh61eKuH45hu1JXzfQOZDpF4h4BTypEBNqP1y_Xy73rq5hUKQo8R67iOTsJw5iG_iWhEBw-1068x601.jpg</fanart>
+<info>Perto de ter seu primeiro filho, um homem decide procurar sua mãe biológica na intenção de encontrar respostas sobre si mesmo. Porém, essa jornada o mostra muito mais surpresas do que esperava, como a existência de seus mais cinco irmãos gêmeos.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Sem Dormir Até o Natal[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1vGFr0RsR33JfKhc2U1UU72N-cJZNIBX_</link>
+<thumbnail>https://4.bp.blogspot.com/-0CWot7dZsYQ/XVLGDORsh2I/AAAAAAAACwY/xA3rX7h94gssEgNoASz6B33rJYdOn6SiACLcBGAs/s1600/se-250x355.jpg</thumbnail>
+<fanart>https://i1.wp.com/planetalan.com.br/wp-content/uploads/2019/08/Sem-Dormir-At%C3%A9-o-Natal.jpg?fit=1200%2C675&ssl=1</fanart>
+<info>Lizzie está prestes a se casar, mas teme que a insônia atrapalhe o momento. Um dia, ela conhece Billy, que também sofre com a falta de sono. Após um acidente, eles descobrem que, do lado um do outro, conseguem dormir.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]ANOS 90[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1DEN05gNLtfeEgB53x8kzcog9i7CI0vsD</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/04/18/15/23/1320490.jpg</thumbnail>
+<fanart>https://pipocanamadrugada.com.br/site/wp-content/uploads/2019/02/Anos-90.jpg</fanart>
+<info>Aos 13 anos, Stevie (Sunny Suljic) é um garoto de Los Angeles tentando curtir o início da adolescência enquanto tenta relevar o relacionamento abusivo com o irmão mais velho. Em plena década de 1990, ele descobre o skate e aprende lições de vida com o seu novo grupo de amigos.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Clube dos Infiéis Honestos[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1rebJHyUmbIN5Ej3Ajw3o1yaz66vOKToh</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg</thumbnail>
+<fanart>https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcwoR1Wh1yc8uN34THGOtwAwwBg6IEdPph8xfiwscs6WsUpqn5cdl6JHGoSskrhxS2agWNYB73zOOA0uXubvFbP2l1PebpZtAA.jpg</fanart>
+<info>Cansados dos casamentos mornos, quatro amigos de infância decidem criar um clube para pular a cerca. O objetivo: reacender a paixão pelas esposas.</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B]Onde Está a Vovó?[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=13LamdgWFK2ooTPHkDTqAL8nFmqnujeA1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqH4KgqwzhSkqX5B6x1FzG2bw4n.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-CT2SJHPdSRc/XS_R09dlcfI/AAAAAAAAd-M/asMBgUbYHNAVZZj3VR5S9NUm-MiSI6D6wCLcBGAs/s500/Screenshot_1.png</fanart>
+<info>Recchia (Fabio De Luigi) é um financista desajeitado e incorruptível que se apaixona por Claudia (Miriam Leone), uma jovem restauradora que é forçada a viver com os cheques de aposentadoria de sua avó Brigit (Barbara Bouchet) enquanto espera ser paga pelo Estado por um trabalho realizado.Quando Brigit morre de repente, Claudia, ajudada por suas amigas Rossana (Lucia Ocone) e Margie (Marina Rocco), planeja uma fraude para continuar recebendo a pensão e evitar a falência.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Casal Improvável[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1kV6GwePj287voANvn0RJnUO7thcxnIag</link>
+<thumbnail>https://1.bp.blogspot.com/-RoH75q5d_nA/XTpEX1dJr1I/AAAAAAAAHmw/kS9_-VeWSXMSmZ7dgDJCriDzw32RkTDxwCLcBGAs/s1600/CASAL%2BIMPROVAVEL.png</thumbnail>
+<fanart>https://cosmonerd.com.br/wp-content/uploads/2019/04/casal-improv%C3%A1vel-seth-rogen-charlize-thron-paris-filmes.jpg</fanart>
+<info>O jornalista investigativo Fred Flarsky (Seth Rogen) se demite após receber a notícia de que o site para qual trabalha foi vendido para um grande conglomerado de mídia, liderado por Parker Wembley (Andy Serkis). Para se animar depois de perder o emprego, Fred vai a uma festa com seu amigo Lance (O'Shea Jackson Jr.) e acaba reencontrando sua antiga babá, Charlotte Field (Charlize Theron), que, atualmente, é Secretária de Estado americana e está prestes a concorrer à presidência. Cansada de ser assessorada por profissionais que não a conhecem, Charlotte decide contratar Fred para escrever seus discursos de campanha. Um romance improvável surge entre eles, causando uma inesperada reação em cadeia. </info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Um Ladrão Com Estilo[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1v_rM9Z75qMxOdktICPTYm9Zu73yh4cQp</link>
+<thumbnail>https://1.bp.blogspot.com/-4sjsYXIa-_M/XTtzWhcGvbI/AAAAAAAAHqI/1Tgmj3BvaJUj8C5qX6Z4EE8VCrJLDlufwCLcBGAs/s1600/UM%2BLADR%25C3%2583O%2BCOM%2BESTILO.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-wBHTGHYIB24/XTtqWZoSwdI/AAAAAAAAeSQ/yin_huAsBSob6oC89zL1m3olCgBfJYQBgCLcBGAs/s400/Screenshot_1.png</fanart>
+<info>Preciso, gentil e carismático, Forrest Trucker (Robert Redford) domina com maestria a arte de assaltar bancos. Aos 70 anos de idade, o senhor conseguiu a façanha de escapar da prisão de San Quentin e de tantas outras, e agora segue conduzindo uma série de roubos que intriga a polícia e fascina os espectadores. No entanto, o detetive John Hunt (Casey Affleck) está na sua cola, e Trucker precisará elaborar ainda mais suas artimanhas para ter sucesso no seu último grande ato. </info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Lutando Pela Família[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1NH_X7MztEQELPb4E1bzQDQo8t1zOcTWT</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/19/01/16/14/01/1828979.jpg</thumbnail>
+<fanart>https://s3.dualstack.sa-east-1.amazonaws.com/materate-files/791841/lG2HKRY8ZviMaECWEv6DDAQlsRL.jpg</fanart>
+<info>Uma jovem (Florence Pugh) deseja lutar na WWE, a associação estadunidense de wrestling, mas, para concretizar o seu sonho, precisará convencer seus pais e suportar uma dura rotina de treinamentos.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B]Em Cima do Muro[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1RYsEw2BmyJsPnAkgpX5JrmbJCbAVmhIQ</link>
+<thumbnail>https://i.imgur.com/2o3cl9Z.jpg</thumbnail>
+<fanart>https://cdn.fstatic.com/media/movies/photos/2019/07/em-cima-do-muro_t217133.jpg</fanart>
+<info>Juliette sempre faz as escolhas erradas. Um dia, o destino lhe apresenta dois homens.</info>
+</item>

@@ -1,0 +1,17 @@
+
+
+<item>
+<title>[COLOR orange][B] .......... [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link></link>
+<thumbnail>...</thumbnail>
+<fanart>....</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR orange][B] Interestelar (2014) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12wbBhQe653waV4Rmek-wIjVryxDnlVKH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/o2eH7rg6XlWLkyjNVAIxQcWkQzi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vFJ31Mp68hwtlB4opsAP29gFqhr.jpg</fanart>
+<info>A Interestelar narra as aventuras de um grupo de exploradores que usam um buraco de minhoca recentemente descoberto para superar as limitações das viagens espaciais humanas e conquistar as vastas distâncias envolvidas em uma viagem interestelar.</info>
+</item>
