@@ -1,21 +1,8 @@
 <channels>
 <channel>
-<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] LANÇAMENTOS[/B]</name>
-<thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Filmes%20(2018%2B)</externallink>
-<fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
-<info>
-by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
-[COLOR gold]|[/COLOR][B] - ATUALIZADO - [/B][COLOR gold]|[/COLOR]
-</info>
-</channel>
-</channels>
-----------------------------------------------------
-<channels>
-<channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] AÇÃO[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Acao</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -28,7 +15,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] ANIMAÇÃO[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Animacao</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -41,7 +28,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] AVENTURA[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Aventura</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -54,7 +41,20 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] CLÁSSICOS[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Classicos</externallink>
+<fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
+<info>
+by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
+[COLOR gold]|[/COLOR][B] - ATUALIZADO - [/B][COLOR gold]|[/COLOR]
+</info>
+</channel>
+</channels>
+----------------------------------------------------
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] COMÉDIA[/B]</name>
+<thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Comedia</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -80,7 +80,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] DRAMA[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Drama</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -93,7 +93,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] EM CARTAZ[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/EmCartaz</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -106,7 +106,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] FARESTE[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Faroeste</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -119,7 +119,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] FICÇÃO CIENTÍFICA[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Ficcao%20Cientifica</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -132,7 +132,20 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] GUERRA[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Guerra</externallink>
+<fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
+<info>
+by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
+[COLOR gold]|[/COLOR][B] - ATUALIZADO - [/B][COLOR gold]|[/COLOR]
+</info>
+</channel>
+</channels>
+----------------------------------------------------
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] LANÇAMENTOS[/B]</name>
+<thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Filmes%20(2018%2B)</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -145,7 +158,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] NACIONAL[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Nacional</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -158,7 +171,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] POLICIAL[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Policial</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -171,7 +184,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] ROMANCE[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Romance</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -184,7 +197,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] SUSPENSE[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Suspense</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
@@ -197,7 +210,7 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] TERROR[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Terror</externallink>
 <fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
 <info>
 by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
