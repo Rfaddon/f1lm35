@@ -208,6 +208,19 @@ by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 ----------------------------------------------------
 <channels>
 <channel>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] OUTROS[/B]</name>
+<thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/RFS%20-%20F1LM35%202NT1G05</externallink>
+<fanart>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</fanart>
+<info>
+by [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
+[COLOR gold]|[/COLOR][B] - ATUALIZADO - [/B][COLOR gold]|[/COLOR]
+</info>
+</channel>
+</channels>
+----------------------------------------------------
+<channels>
+<channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] TERROR[/B]</name>
 <thumbnail>https://ia801409.us.archive.org/21/items/filmes_20200124/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Rfaddon/f1lm35/master/Terror</externallink>
