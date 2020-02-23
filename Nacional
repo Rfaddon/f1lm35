@@ -1,6 +1,13 @@
+<item>
+<title>[COLOR orange][B] .......... [COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
-<title>[COLOR orange][B]A Turma da Mônica - Laços[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] A Turma da Mônica - Laços[COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1g9RZv8c43Ugv4PKVedZXpl386YnT7I_I</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/68/Poster-turma-da-monica-lacos.jpg/250px-Poster-turma-da-monica-lacos.jpg</thumbnail>
 <fanart>https://www.jornalnopalco.com.br/wp-content/uploads/2019/06/Turma-da-Monica.jpg</fanart>
@@ -8,15 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] O Galã [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PSifjNpCt6U0WkERcNnNCHH4lMhAElLL/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR orange][B] Legalidade  [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Legalidade  [COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sy_8mhR-rQ0jNOxKb9gxwJ7hxWa9My0_/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/r0DPZsTUZIV4IAv03VWAzzfaqSm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/A1QvsIpsjPhXWxcNAEg0uFesVpR.jpg</fanart>
@@ -24,7 +23,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Minha Mãe É uma Peça (2013) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Minha Mãe É uma Peça () [COLOR yellow](2013)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xv9wlgos1NRaKAaTvk3yyUuArceVH-1X/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9MevURVZtBDuLZAIO1DoM1rDaQH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/y9IBPWFwc68H9EZE2UTSnFmoYXc.jpg</fanart>
@@ -32,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Minha Mãe É uma Peça 2 (2016) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Minha Mãe É uma Peça 2 () [COLOR yellow](2016)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EXoNuXCrL7Am42_Z441Ow3A4oHHWgJjG/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gYITfhe0Bd1YJyAS7CQibxyHCSd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8T9C0bPKH3cFS6EKxEumbO5cPSD.jpg</fanart>
@@ -40,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Minha Mãe É uma Peça 3 (2019) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Minha Mãe É uma Peça 3 () [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link></link>
 <thumbnail>https://image.tmdb.org/t/p/original/usHwAyiFrJJgP5WIukWTbfCqjLb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n3wplZRjGiKqY1UY1IAJVs5dM3L.jpg</fanart>
@@ -48,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Nada a Perder (2018) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Nada a Perder () [COLOR yellow](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vgS3FuguBwKAItfdB6M-64DFOu--7E2O/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/thZk50URYgVWSHd7DvZBBIxrtZa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x53rt95zFbCjfFidDsH6kukMiWz.jpg</fanart>
@@ -56,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Os Parças (2017) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Os Parças () [COLOR yellow](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ise14WMF_d-ADI6dBUKcIZqa64cgpAKj/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1txh3XtPoQOZqzeodHJFaD3i80V.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/myo11fxNsNL670MMTZ4aOAMRoHQ.jpg</fanart>
@@ -64,7 +63,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Os Parças 2 (2019) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Os Parças 2 () [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link></link>
 <thumbnail>https://image.tmdb.org/t/p/original/4ltfP4YUpHtZLadh1MuK92ibfAa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1dCHo980MpQfbFPXBDsDSkR2RZ4.jpg</fanart>
@@ -72,15 +71,15 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Paulo de Tarso e A História do Cristianismo Primitivo  [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wf4tLqrUbXz2NU9vMDo3F6i0Ec5PZWT-/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1sdOgnIu1PeTnNqOVp8AMpjTrWY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1oVS2mEmZMspdleT6BjEOYDqCML.jpg</fanart>
-<info>Uma viagem pelas obras de Paulo de Tarso (Alexandre Galves), um dos principais propagadores do cristianismo.</info>
+<title>[COLOR orange][B] O Galã [COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PSifjNpCt6U0WkERcNnNCHH4lMhAElLL/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg</fanart>
+<info></info>
 </item>
 
 <item>
-<title>[COLOR orange][B] Os Penetras (2012) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Os Penetras () [COLOR yellow](2012)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D9_xBiBWoYeCmEVRbXq6H2xf8LINHbrK/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ym7X3DSTp2q2zuzHgY7Zrmj3vLD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uIKEGhsxXBCPAGDyIzJNGlZO0H6.jpg</fanart>
@@ -88,7 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Os Penetras-2 (2017) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Os Penetras-2 () [COLOR yellow](2017)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link></link>
 <thumbnail>https://image.tmdb.org/t/p/original/tf34FFUXJ8B00i7NdT6oFrGQMqv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uZmWAg7pyO5pot3mGM6dTF3xuev.jpg</fanart>
@@ -96,7 +95,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] O Auto da Compadecida (2000) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] O Auto da Compadecida () [COLOR yellow](2000)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p0e2JIGFOnuK8OTioHsgJKQpQ56XqVkk/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg</fanart>
@@ -104,7 +103,15 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Vai Que Cola 2: O Começo [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Paulo de Tarso e A História do Cristianismo Primitivo  [COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wf4tLqrUbXz2NU9vMDo3F6i0Ec5PZWT-/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1sdOgnIu1PeTnNqOVp8AMpjTrWY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1oVS2mEmZMspdleT6BjEOYDqCML.jpg</fanart>
+<info>Uma viagem pelas obras de Paulo de Tarso (Alexandre Galves), um dos principais propagadores do cristianismo.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B] Vai Que Cola 2: O Começo [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cUQdRh3b_sEVpzyyLC3HxFdtlGVNuCKW/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/xL74ZqAWA7qmV1uqkjfgQygky4S.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AhQ6xZPJmKotCMjuVQujKRrGoCD.jpg</fanart>
@@ -112,17 +119,9 @@
 </item>
 
 <item>
-<title>[COLOR orange][B]Whindersson Nunes em: Adulto[/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B]Whindersson Nunes em: Adulto[COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d9xHWoidvcKELBUhzvX-mvZ3GVRRB2wE</link>
 <thumbnail>https://viatorrents.com/capas/whindersson-nunes-em-adulto-especial-netflix-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/CVOJLbkmOC4/hqdefault.jpg</fanart>
 <info>Ele sabe tudo sobre amadurecer na era digital e vai contar as lições que aprendeu - segure o riso, se puder.</info>
-</item>
-
-<item>
-<title>[COLOR orange][B] ...... [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
 </item>
