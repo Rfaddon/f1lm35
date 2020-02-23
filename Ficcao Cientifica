@@ -1,17 +1,40 @@
-
-
 <item>
-<title>[COLOR orange][B] .......... [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] .......... [COLOR yellow](data)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link></link>
-<thumbnail>...</thumbnail>
-<fanart>....</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>[COLOR orange][B] Interestelar (2014) [/B][/COLOR][COLOR white] (GDrive)[/COLOR]</title>
+<title>[COLOR orange][B] Cocoon [COLOR yellow](1985)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ug4zYSUwZXYvVIatlQq6p0t-1cxlp0US/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/L7D0fvuWb6R3n89pAqIXU0nefv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zu6tXANfAXZEfnfhMLk8mLiadS5.jpg</fanart>
+<info>Quando um grupo de idosos invasores nada em uma piscina contendo casulos alienígenas, eles se vêem energizados com vigor juvenil.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B] Interestelar  [COLOR yellow](2014)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12wbBhQe653waV4Rmek-wIjVryxDnlVKH/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/o2eH7rg6XlWLkyjNVAIxQcWkQzi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vFJ31Mp68hwtlB4opsAP29gFqhr.jpg</fanart>
 <info>A Interestelar narra as aventuras de um grupo de exploradores que usam um buraco de minhoca recentemente descoberto para superar as limitações das viagens espaciais humanas e conquistar as vastas distâncias envolvidas em uma viagem interestelar.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B] Nível 16 [COLOR yellow](2018)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kvOA_cRtHR78yLHOP73t7dU_WPtQpYlS/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ujJ3pBvA9p3cHEY5RfHgpi5Bh6F.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sArWGfBetiJbej5FcpL8Y9MT4SZ.jpg</fanart>
+<info>As adolescentes da Vestalis Academy são meticulosamente treinadas na arte de serem “garotas limpas”, praticando as virtudes da feminilidade perfeita. Mas para que exatamente eles estão sendo treinados? Vivien pretende descobrir.</info>
+</item>
+
+<item>
+<title> [COLOR orange][B] Prometheus  [COLOR yellow](2012)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - GDrive[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-W_lL-ps-v9dK95BezvK4_BDUrqFkA_Q/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5ggDuBKQbNLRuaTXwq4YIP2j6NP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qDG5SlGkWNsjSJWiGTBMFI8DpzA.jpg</fanart>
+<info>Uma equipe de exploradores descobre uma pista das origens da humanidade na Terra, levando-os a uma jornada pelos cantos mais sombrios do universo. Lá, eles devem travar uma batalha terrível para salvar o futuro da raça humana.</info>
+<genre>[COLOR blue]FICÇÃO,CIENTÍFICA,AVENTURA,MISTÉRIO[/COLOR]</genre>
 </item>
