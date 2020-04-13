@@ -1,13 +1,6 @@
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR][COLOR deepskyblue]|[/COLOR][COLOR greenyellow] ●[/COLOR] .......[/B] (GDrive)</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-<item>
 <title>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR lawngreen] ●[/COLOR]Dia de Treinamento [/B] [COLOR gold](IMDb 7,7)[/COLOR]</title>
-<externallink>https://archive.org/download/DADTRNMNT/DADTRNMNT.mp4</externallink>
+<link>https://archive.org/download/DADTRNMNT/DADTRNMNT.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X4zeznwORmk3c7al9G86fwzkSq.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BNDYxNDY5MTI4NV5BMl5BanBnXkFtZTgwMTQ0MzMzMTI@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <info>
@@ -26,7 +19,7 @@ Em seu primeiro dia de trabalho como oficial de narcóticos em Los Angeles, um p
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR][COLOR deepskyblue]|[/COLOR][COLOR greenyellow] ●[/COLOR] O Irlandês[/B] [COLOR gold](IMDb 7,9)[/COLOR] (GDrive)</title>
+<title>[B]Se[COLOR lawngreen]7[/COLOR]n [COLOR gold]P[/COLOR][COLOR deepskyblue]l[/COLOR][COLOR lawngreen]a[/COLOR][COLOR hotpink]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR lawngreen] ●[/COLOR] O Irlandês[/B] [COLOR gold](IMDb 7,9)[/COLOR] (GDrive)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hMBWNoc_bUx3BC1dEFD0DSE2HI9FAoXS/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/7T8lIu2e8Szbj8XTY4KM9gahC8h.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg</fanart>
